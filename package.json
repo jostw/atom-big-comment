@@ -1,7 +1,7 @@
 {
   "name": "atom-big-comment",
   "main": "./lib/atom-big-comment",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Generate ascii-art comment to display text on Minimap in Atom",
   "keywords": [],
   "activationCommands": {
